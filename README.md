@@ -22,7 +22,7 @@ Starter template for TypeScript library
 [npm-downloads-href]: https://npmjs.com/package/@doonce/starter-lib-ts
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@doonce/starter-lib-ts?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=@doonce/starter-lib-ts
-[license-src]: https://img.shields.io/github/license/antfu/@doonce/starter-lib-ts.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/antfu/@doonce/starter-lib-ts/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/@doonce/starter-lib-ts.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/do-once/starter-lib-ts/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/@doonce/starter-lib-ts
