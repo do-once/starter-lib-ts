@@ -11,7 +11,7 @@ Starter template for TypeScript library
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © 2024-PRESENT [Doonce](https://github.com/do-once)
 
 
 <!-- Badges -->
